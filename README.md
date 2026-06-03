@@ -1,1 +1,4 @@
-# mi_correo_app
+# Agenda de Correos
+
+-npm install
+-npm start
